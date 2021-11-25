@@ -1,0 +1,7 @@
+streamlit
+note_seq
+midi2audio
+pretty_midi
+numpy
+scipy
+hashlib
